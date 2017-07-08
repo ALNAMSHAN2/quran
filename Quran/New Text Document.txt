@@ -1,0 +1,53 @@
+﻿
+<li><a href='index.php?Quran=abdelmoujib-benkirane' class='link1'>  عبدالمجيب بنكيران </a></li>0
+<li><a href='index.php?Quran=abdlkaber' class='link1'> عبد الكبير الحديدي  </a></li>
+<li><a href='index.php?Quran=Abdulbasit_Mojawwad' class='link1'> عبدالباسط عبدالصمد  </a></li>0
+<li><a href='index.php?Quran=Abdulmuhsin-Al-Harthy' class='link1'> عبدالمحسن الحارثي  </a></li>0
+<li><a href='index.php?Quran=abdulqawi-abdulmajid' class='link1'> عبد القوي عبد المجيد  </a></li>
+<li><a href='index.php?Quran=abdulrhman-aljuraidy' class='link1'> عبدالرحمن الجريذي  </a></li>0
+<li><a href='index.php?Quran=abkar' class='link1'>  إدريس أبكر  </a></li>0
+<li><a href='index.php?Quran=ahmed-attarabolsi' class='link1'>  أحمد خضر الطرابلسي  </a></li>0
+<li><a href='index.php?Quran=ahmed-neana' class='link1'> أحمد نعينع  </a></li>0
+<li><a href='index.php?Quran=Al-Arkani' class='link1'>  عبدالولي الأركاني  </a></li>0
+<li><a href='index.php?Quran=Al-Asiri' class='link1'>  إبراهيم العسيري  </a></li>0
+<li><a href='index.php?Quran=albana' class='link1'>  محمود علي البنا  </a></li>0
+<li><a href='index.php?Quran=albana_mjwd' class='link1'>  محمود علي البنا - المصحف المجود   </a></li>0
+<li><a href='index.php?Quran=Al-Barrak' class='link1'> محمد البراك </a></li>0
+<li><a href='index.php?Quran=alhashim' class='link1'>     صلاح الهاشم </a></li>0
+<li><a href='index.php?Quran=Al-Kandari' class='link1'>     فهد الكندري </a></li>0
+<li><a href='index.php?Quran=Al-Lohaidan' class='link1'>   محمد اللحيدان  </a></li>0
+<li><a href='index.php?Quran=Al-Minshawi_Mojawwad' class='link1'>  محمد صديق المنشاوي - المصحف المجود  </a></li>0
+<li><a href='index.php?Quran=Al-Oni' class='link1'>  لافي العوني  </a></li>0
+<li><a href='index.php?Quran=Alqatami' class='link1'>  ناصر القطامي  </a></li>0
+<li><a href='index.php?Quran=ayman-aldeeb' class='link1'>   أيمن أحمد الديب  </a></li>0
+<li><a href='index.php?Quran=Ayyub' class='link1'>     محمد أيوب  </a></li>0
+<li><a href='index.php?Quran=azzawi' class='link1'>  مصطفى بن رعد العزاوي  </a></li>0
+<li><a href='index.php?Quran=elkantaoui' class='link1'>  محمد الكنتاوي - رواية ورش عن نافع   </a></li>0
+<li><a href='index.php?Quran=fouad-alkhamri' class='link1'>     فؤاد الخامري  </a></li>0
+<li><a href='index.php?Quran=hafez-ishak-danish' class='link1'>   حافظ إسحاق دانيش  </a></li>0
+<li><a href='index.php?Quran=haneef' class='link1'>  عبدالودود مقبول حنيف  </a></li>0
+<li><a href='index.php?Quran=hasan-mohamed-saleh-warsh' class='link1'>  حسن محمد صالح (برواية ورش عن نافع)  </a></li>0
+<li><a href='index.php?Quran=hawashy' class='link1'>  أحمد الحواشي   </a></li>0
+<li><a href='index.php?Quran=jazza-alsuwaileh' class='link1'>  جزاع بن فليح الصويلح  </a></li>0
+<li><a href='index.php?Quran=jbreen' class='link1'>  ابراهيم الجبرين  </a></li>0
+<li><a href='index.php?Quran=jleel' class='link1'>  خالد الجليل   </a></li>0
+<li><a href='index.php?Quran=koshi' class='link1'>  العيون الكوشي (رواية ورش عن نافع)  </a></li>0
+<li><a href='index.php?Quran=lahoni' class='link1'>   مصطفى اللاهوني  </a></li>0
+<li><a href='index.php?Quran=mahmoud-rifai' class='link1'>  محمود الرفاعي  </a></li>0
+<li><a href='index.php?Quran=Mansoor' class='link1'>  منصور الزهراني  </a></li>0
+<li><a href='index.php?Quran=mhsny' class='link1'>   محمد المحيسني  </a></li>0
+<li><a href='index.php?Quran=mohamed-alabdulah' class='link1'>   محمد عبدالحكيم سعيد العبدالله - الدوري عن الكسائي   </a></li>0
+<li><a href='index.php?Quran=mohamed-elhodairi' class='link1'>   محمد الحضيري - رواية قالون عن نافع  </a></li>0
+<li><a href='index.php?Quran=mohamed-hassan' class='link1'>  محمد حسان   </a></li>0
+<li><a href='index.php?Quran=mustafaismail' class='link1'>  مصطفى إسماعيل  </a></li>0
+<li><a href='index.php?Quran=salama-hdr' class='link1'>  ياسر سلامة - مصحف الحدر  </a></li>0
+<li><a href='index.php?Quran=Sami-Al-Hasn' class='link1'>  سامي الحسن  </a></li>0
+<li><a href='index.php?Quran=shakhashero' class='link1'>   ماهر شخاشيرو  </a></li>
+<li><a href='index.php?Quran=sultan-alrukan' class='link1'>  سلطان الروكان   </a></li>0
+<li><a href='index.php?Quran=tablawi' class='link1'>   محمد محمود الطبلاوي   </a></li>0
+<li><a href='index.php?Quran=Walid-Al-Dulaimi' class='link1'>  وليد الدليمي  </a></li>0
+<li><a href='index.php?Quran=yahya' class='link1'>  يحيى حوا  </a></li>0
+<li><a href='index.php?Quran=youssef-abkar' class='link1'>  يوسف أبكر   </a></li>0
+<li><a href='index.php?Quran=youssef-nouh' class='link1'>  يوسف نوح أحمد   </a></li>
+<li><a href='index.php?Quran=zamil' class='link1'> ماجد الزامل  </a></li>0
+
