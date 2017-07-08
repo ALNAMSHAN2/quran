@@ -1,0 +1,28 @@
+﻿.hts{
+}
+.hts ul{
+padding: 0px;
+margin: 0px;
+list-style-type: none;
+}.hts ul li  {
+text-align: right;
+}.hts ul li a {
+font-family: tahoma;
+font-size: 13px;
+color: #000000;
+}.hts ul li a span {
+color: #FF0000;
+font-family: "mohammad bold art 1";
+font-size: 14px;
+}
+.hts h3 {
+padding: 0px;
+margin: 0px;
+width: auto;
+height: 20px;
+text-align: center;
+font-family: tahoma;
+font-size: 18px;
+font-weight: lighter;
+color: #172B17;
+}

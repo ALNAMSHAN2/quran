@@ -1,0 +1,20 @@
+﻿.booxvg{
+width: auto;
+text-align: center;
+}
+.booxvg a  {
+text-decoration: none;
+text-align: center;
+}
+.booxvg a object  {
+text-align: right;
+}
+.booxvg h3{
+padding: 0px;
+margin: 0px;
+width: auto;
+font-family: tahoma;
+font-size: 14px;
+font-weight: lighter;
+color: #A98D2E;
+}

@@ -1,0 +1,94 @@
+﻿.hts{
+width: auto;
+}
+.hts ul{
+padding: 0px;
+margin: 0px;
+list-style-type: none;
+}
+.hts ul li {
+text-align: right;
+}
+.hts ul li a {
+font-family: tahoma;
+font-size: 10pt;
+}
+.hts ul li a span {
+color: #FF0000;
+font-family: tahoma;
+font-size: 14px;
+}
+.hts h3 {
+padding: 0px;
+margin: 0px;
+width: auto;
+height: 25px;
+text-align: center;
+font-family: tahoma;
+font-size: 20pt;
+font-weight: lighter;
+color: #808000;
+}.tools{
+width: 550px;
+background-color: #FFFFFF;
+height: 50px;
+}
+.tools a {
+padding: 0px;
+display: block;
+width: 20px;
+height: 18px;
+float: right;
+margin: 8px 5px 0px 0px;
+background-repeat: no-repeat;
+}
+.tools h3 {
+background-color: #DDFFDD;
+text-align: center;
+font-family: tahoma;
+font-size: 12px;
+color: #FFFFFF;
+padding: 0px;
+margin: 0px;
+width: 600px;
+background-image: url('../images/encF_02.gif');
+}.tools a.icon-blinklist {
+background-image: url('../images/icon-blinklist.png');
+
+}
+.tools a.icon-delicious {
+background-image: url('../images/icon-delicious.png');
+}
+.tools a.icon-digg {
+background-image: url('../images/icon-digg.png');
+}
+.tools a.icon-facebook {
+background-image: url('../images/icon-facebook.png');
+
+}
+.tools a.icon-furl {
+background-image: url('../images/icon-furl.png');
+}
+.tools a.icon-google {
+background-image: url('../images/icon-google.png');
+}
+.tools a.icon-magnolia {
+background-image: url('../images/icon-magnolia.png');
+}
+.tools a.icon-mixx{
+background-image: url('../images/icon-mixx.png');
+}
+.tools a.icon-reddit{
+background-image: url('../images/icon-reddit.png');
+}.tools a.icon-stumbleupon{
+background-image: url('../images/icon-stumbleupon.png');
+}
+.tools a.icon-technorati{
+background-image: url('../images/icon-technorati.png');
+}
+.tools a.icon-twitter{
+background-image: url('../images/icon-twitter.png');
+}
+.tools a.icon-windowslive{
+background-image: url('../images/icon-windowslive.png');
+}

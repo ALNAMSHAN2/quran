@@ -1,0 +1,209 @@
+﻿.Quranbooxmig{
+background-repeat: no-repeat;
+width: 96px;
+height: 96px;
+float: right;
+}/*الان ساكتب الكلاسات الخاصه بالاعمده اليمين واليسار*/
+/* الخاصه باالعمود اليمين */
+#boox-boox{
+width: 176px;
+height: 100px;
+float: right;
+}
+.booxhader h3 {
+text-align: center;
+width: auto;
+font-family: tahoma;
+font-size: 15px;
+font-weight: lighter;
+margin-right: 2px;
+margin-bottom: 2px;
+margin-left: 1px;
+height: 30px;
+padding-top: 8px;
+color: #FFFFFF;
+
+}
+.boox{
+background-position: bottom;
+width: 176px;
+height: 100px;
+background-image: url('../images/sshot-1_03_06.png');
+background-repeat: repeat-y;
+}
+.boox ul {
+padding: 0px;
+margin: 0px;
+list-style-type: none;
+}
+.boox ul li {
+width: 175px;
+height: 20px;
+padding-right: 2px;
+background-image: url('../images/sshot-1_03_06.png');
+background-repeat: no-repeat;
+}
+.boox ul li a{
+font-family: tahoma;
+font-size: 10pt;
+text-decoration: none;
+color: #1F650E;
+}
+.booxhader{
+background-image: url('../images/sshot-1_03_04.png');
+background-repeat: no-repeat;
+background-color: #FFFFFF;
+height: 37px;
+background-position: center;
+}
+.booxfoot{
+background-image: url('../images/sshot-1_03_11.png');
+background-repeat: no-repeat;
+height: 15px;
+background-position: right bottom;
+background-color: #FFFFFF;
+}
+/* الخاصه باالعمود اليسار*/
+#Quran{
+width: auto;
+}
+.Quranboox{
+margin: 0px auto 0px auto;
+width: 570px;
+}
+.Quranboox ul {
+padding: 0px;
+margin: 0px 20px 0px 0px;
+list-style-type: none;
+}
+.Quranboox ul li {
+margin: 0px 2px 2px 1px;
+float: right;
+text-align: center;
+width: 105px;
+height: 30px;
+background-color: #254725;
+border-radius: 10px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+-moz-box-shadow: 3px 3px 5px #333;
+
+}
+.Quranboox ul li a {
+color: #FFFFFF;
+text-decoration: none;
+font-family: tahoma;
+font-size: 12pt;
+line-height: 30px;
+}
+.Quranboox h3 {
+text-align: center;
+}
+.Quranbooxq{
+margin: 0px auto 0px auto;
+width: 550px;
+text-align: center;
+height: 300px;
+}
+.Quranbooxq embed {
+width: 270px;
+height: 270px;
+}
+.Quranbooxq h3 {
+margin: 0px 10px 0px 0px;
+padding: 0px;
+color: #428431;
+text-decoration: none;
+font-family: Youssef;
+font-size: 12pt;
+}
+.Quranbooxq ul {
+padding: 0px;
+margin: 0px;
+list-style-type: none;
+}
+.Quranbooxq ul li {
+margin: 0px auto 0px auto;
+text-align: center;
+width: 550px;
+}
+.Quranbooxq ul li a {
+text-decoration: none;
+font-family: tahoma;
+font-size: 15px;
+color: #172B17;
+width: auto;
+}
+.Quranbooxu{
+margin: 0px auto 0px auto;
+width: 400px;
+height: 100px;
+}
+.Quranbooxtext{
+width: 300px;
+float: left;
+height: 100px;
+}
+.Quranbooxtext ul {
+list-style-type: none;
+margin: 10px 0px 0px 0px;
+padding: 0px;
+}
+.Quranbooxtext ul li {
+float: right;
+width: 100px;
+height: 20px;
+text-align: center;
+background-color: #172B17;
+margin-right: 2px;
+margin-bottom: 2px;
+margin-left: 1px;
+border-radius: 10px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+-moz-box-shadow: 3px 3px 5px #333;
+line-height: 20px;
+}
+.Quranbooxtext ul li a {
+font-family: tahoma;
+font-size: 11px;
+color: #FFFFFF;
+line-height: 20px;
+}
+.sedanyarea{
+margin: 0px auto 0px auto;
+width: 550px;
+text-align: center;
+clear: both;
+}
+.sedanyarea h3 {
+color: #000000;
+font-size: 12pt;
+font-family: tahoma;
+padding: 0px;
+margin: 0px;
+width: 550px;
+height: 20px;
+}
+.sedanyarea textarea {
+margin: 0px;
+padding: 0px;
+width: 550px;
+height: 80px;
+font-family: tahoma;
+font-size: 10pt;
+border: 2px solid #D5D4D4;
+border-radius: 10px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+-moz-box-shadow: 3px 3px 5px #333;
+}.content h5 {
+text-align: center;
+width: auto;
+font-family: tahoma;
+font-size: 12px;
+font-weight: lighter;
+margin-right: 2px;
+margin-bottom: 2px;
+margin-left: 1px;
+}

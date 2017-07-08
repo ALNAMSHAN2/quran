@@ -1,0 +1,94 @@
+﻿.boox{
+background-position: bottom;
+width: 176px;
+height: 100px;
+background-image: url('../images/sshot-1_03_06.png');
+background-repeat: repeat-y;
+}
+.boox ul {
+padding: 0px;
+margin: 0px;
+list-style-type: none;
+}
+.boox ul li {
+width: 175px;
+height: 20px;
+padding-right: 2px;
+background-image: url('../images/sshot-1_03_06.png');
+background-repeat: no-repeat;
+}
+.boox ul li a{
+font-family: tahoma;
+font-size: 10pt;
+text-decoration: none;
+color: #1F650E;
+}.booox{
+
+}
+.booox ul {
+list-style-type: none;
+padding: 0px;
+margin: 0px;
+}
+.booox ul li {
+text-align: right;
+}
+.booox ul li a {
+text-decoration: none;
+font-family: tahoma;
+font-size: 12px;
+color: #172B17;
+width: 500px;
+height: 20px;
+}
+.booox ul li a:hover {
+color: #336600;
+font-size: 20px;
+}
+.booox h3 {
+font-size: 15px;
+font-family: tahoma;
+color: #FFFFFF;
+padding: 0px;
+margin: 0px;
+width: 100%;
+text-align: center;
+background-color: #172B17;
+height: 20px;
+font-weight: lighter;
+}
+.booox ul li span {
+vertical-align: super;
+font-size: 10px;
+font-family: tahoma;
+color: #FF6600;
+}
+.booxvg{
+text-align: right;
+}.booxvg h3 {
+font-family: tahoma;
+font-size: 15px;
+font-weight: lighter;
+padding: 0px;
+margin: 0px;
+width: auto;
+text-align: center;
+color: #172B17;
+}
+.booxvg h2 {
+font-family: tahoma;
+font-size: 15px;
+font-weight: lighter;
+padding: 0px;
+margin: 0px;
+width: auto;
+text-align: center;
+color: #172B17;
+}
+.booxvg a{
+font-family: tahoma;
+font-size: 13px;
+font-weight: lighter;
+color: #315B31;
+text-decoration: none;
+}

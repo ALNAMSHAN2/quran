@@ -1,0 +1,16 @@
+<link rel='stylesheet' type='text/css' href='css/Quran.css' /><div class="min">
+<h1> <?=$SEDANY[10];?>  </h1>
+<?=$addthis;?>
+<?php
+if (!isset($_GET['Quran'])) { // the had is badre
+include("Quran/$twQuran");
+}else{
+$filename="Quran/" . $_GET['Quran'] . ".html";
+if (file_exists($filename)){
+include("Quran/" . $_GET['Quran'] . ".html");
+}else{
+include("error.php");
+}}
+?>
+<div class="clr">
+</div></div>

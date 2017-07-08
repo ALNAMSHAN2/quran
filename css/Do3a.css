@@ -1,0 +1,101 @@
+﻿.hts{
+width: auto;
+}
+.hts ul{
+padding: 0px;
+margin: 0px;
+list-style-type: none;
+}
+.hts ul li {
+text-align: right;
+}
+.hts ul li a {
+font-family: tahoma;
+font-size: 10pt;
+color: #172B17;
+}
+.hts ul li a span {
+color: #FF0000;
+font-family: tahoma;
+font-size: 15px;
+font-weight: lighter;
+}
+.hts h3 {
+padding: 0px;
+margin: 0px;
+width: auto;
+height: 25px;
+text-align: center;
+font-family: tahoma;
+font-size: 17px;
+font-weight: lighter;
+color: #172B17;
+}
+.hts h4{
+font-family: tahoma;
+font-size: 12px;
+font-weight: lighter;
+color: #009900;
+}
+.hts h2{
+font-family: tahoma;
+font-size: 12px;
+font-weight: lighter;
+color: #336600;
+}
+.boox{
+
+}
+.boox ul {
+list-style-type: none;
+padding: 0px;
+margin: 0px;
+}
+.boox ul li {
+
+}
+.boox ul li a {
+text-decoration: none;
+font-family: tahoma;
+font-size: 12px;
+color: #000000;
+}.booox{
+text-align: right;
+}
+.booox ul {
+list-style-type: none;
+padding: 0px;
+margin: 0px;
+}
+.booox ul li {
+}
+.booox ul li a {
+text-decoration: none;
+font-family: tahoma;
+font-size: 12px;
+color: #000000;
+width: 500px;
+height: 20px;
+}
+.booox ul li a:hover {
+color: #5F4B1F;
+font-size: 20px;
+}
+.booox h3 {
+font-size: 15px;
+font-family: tahoma;
+color: #FFFFFF;
+padding: 0px;
+margin: 0px;
+width: auto;
+text-align: center;
+background-color: #172B17;
+height: 20px;
+font-weight: lighter;
+}
+.booox ul li span {
+vertical-align: super;
+font-size: 10px;
+font-family: tahoma;
+color: #FF6600;
+}

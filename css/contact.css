@@ -1,0 +1,114 @@
+﻿#contentForm form textarea.ss{
+width: 520px;
+height: 150px;
+display: block;
+float: right;
+}
+html, body {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+h2 {
+padding: 0px;
+margin: 0px;
+font-size: 15px;
+font-family: tahoma;
+font-weight: lighter;
+}/* the main layout */#contentForm {
+padding: 0px;
+display: block;
+width: 540px;
+margin: 0px auto 0px auto;
+/*this line will center the page*/-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+text-align: right;
+}/* and now the form formatting itself */
+label {
+display: block;
+float: right;
+Width: 280px;
+line-height: 20px;
+margin-bottom: 10px;
+margin: 5px 0;
+font-family: tahoma;
+font-size: 12px;
+font-weight: lighter;
+}
+input, textarea, select {
+padding: 2px;
+font-size: 1em;
+color: #666666;
+background: #F5F5F5;
+margin: 5px 0;
+border: 2px solid #FFF;
+border-radius: 10px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+-moz-box-shadow: 3px 3px 5px #333;
+text-align: right;
+}input:focus, textarea:focus, select:focus {
+  border: 1px solid #999;
+  background-color: #FFFFFF;
+}input.button {
+margin: 0px auto 0px auto;
+cursor: pointer;
+border: 3px solid #818181;
+font-weight: lighter;
+background: left top;
+width: 90px;
+height: 28px;
+display: block;
+font-family: tahoma;
+font-size: 15px;
+text-align: center;
+}span.required{
+  font-size: 13px !important;
+  color: red !important;
+}.errormsg {
+display: block;
+width: auto;
+height: 50px;
+line-height: 50px;
+color: #FFFFFF;
+font-weight: lighter;
+background: #FF9D9D url(../images/stop.gif) no-repeat 10px center;
+padding: 3px 10px 3px 40px;
+margin: 10px 0;
+border: 2px solid #FF3300;
+border-radius: 10px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+-moz-box-shadow: 3px 3px 5px #333;
+font-family: tahoma;
+font-size: 15px;
+}.msgSent {
+  font-size: 20px;
+  text-align: center;
+}#contentForm form textarea:focus{
+border: 3px solid #172B17;
+}
+#contentForm form input:focus{
+border: 3px solid #172B17;
+}
+.link-sedany{
+margin: 30px auto 0px auto;
+width: 200px;
+}
+.link-sedany a{
+display: block;
+float: left;
+height: 65px;
+color: #751A2A;
+line-height: 65px;
+text-align: center;
+font-family: tahoma;
+font-size: 15px;
+font-weight: lighter;
+text-decoration: none;}
+.link-sedany a.link-my{
+background-position: center top;
+width: 200px;
+background-image: url('../images/my-logo-sedanycom.png');
+background-repeat: no-repeat;
+}

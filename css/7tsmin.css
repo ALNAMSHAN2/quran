@@ -1,0 +1,33 @@
+﻿.hts{
+width: auto;
+text-align: right;
+}
+form {
+padding: 0px;
+margin: 0px;
+}
+.hts ul{
+padding: 0px;
+margin: 0px;
+list-style-type: none;
+}
+.hts ul li {
+
+}
+.hts ul li a {
+font-family: tahoma;
+font-size: 14px;
+}
+.hts ul li a span {
+color: #FF0000;
+}
+.hts h3 {
+padding: 0px;
+margin: 0px;
+width: auto;
+height: 20px;
+font-family: tahoma;
+font-size: 15px;
+font-weight: lighter;
+color: #AF9127;
+}
