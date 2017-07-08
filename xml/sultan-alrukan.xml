@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<songs showDisplay="yes" showPlaylist="yes" autoStart="yes">
+    <song path="http://download.tvquran.com/download/TvQuran.com__Sultan/067.mp3" title="(67) Al-Mulk الـمـلـك" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Sultan/068.mp3" title="(68) Al-Qalam الـقـلـم" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Sultan/069.mp3" title="(69) Al-Haqqah الـحـاقـة" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Sultan/070.mp3" title="(70) Al-Ma'arij الـمـعـارج" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Sultan/071.mp3" title="(71) Nooh نـوح" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Sultan/072.mp3" title="(72) Al-Jinn الـجـن" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Sultan/073.mp3" title="(73) Al-Muzzammil الـمـزّمّـل" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Sultan/074.mp3" title="(74) Al-Muddaththir الـمـدّثـر" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Sultan/075.mp3" title="(75) Al-Qiyamah الـقـيـامـة" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Sultan/076.mp3" title="(76) Al-Insan الإنـسـان" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Sultan/077.mp3" title="(77) Al-Mursalat الـمـرسـلات" />
+</songs>

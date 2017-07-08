@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<songs showDisplay="yes" showPlaylist="yes" autoStart="yes">
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/001.mp3" title="(01) Al-Fatihah الـفـاتـحـة" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/002.mp3" title="(02) Al-Baqarah الـبـقـرة" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/005.mp3" title="(05) Al-Ma'idah الـمـائـدة" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/039.mp3" title="(39) Az-Zumar الـزمـر" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/040.mp3" title="(40) Ghafir غـافـر" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/067.mp3" title="(67) Al-Mulk الـمـلـك" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/068.mp3" title="(68) Al-Qalam الـقـلـم" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/069.mp3" title="(69) Al-Haqqah الـحـاقـة" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/070.mp3" title="(70) Al-Ma'arij الـمـعـارج" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/071.mp3" title="(71) Nooh نـوح" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/072.mp3" title="(72) Al-Jinn الـجـن" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/073.mp3" title="(73) Al-Muzzammil الـمـزّمّـل" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/074.mp3" title="(74) Al-Muddaththir الـمـدّثـر" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/075.mp3" title="(75) Al-Qiyamah الـقـيـامـة" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/076.mp3" title="(76) Al-Insan الإنـسـان" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/077.mp3" title="(77) Al-Mursalat الـمـرسـلات" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/078.mp3" title="(78) An-Naba' الـنـبـأ" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/079.mp3" title="(79) An-Nazi'at الـنـازعـات" />
+    <song path="http://ia600205.us.archive.org/7/items/TvQuran.com__Harthy/080.mp3" title="(80) 'Abasa عـبـس" />
+</songs>

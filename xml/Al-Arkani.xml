@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<songs showDisplay="yes" showPlaylist="yes" autoStart="yes">
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/001.mp3" title="(01) Al-Fatihah الـفـاتـحـة" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/007.mp3" title="(07) Al-A'raf الأعـراف" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/012.mp3" title="(12) Yusuf يـوسـف" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/014.mp3" title="(14) Ibrahim إبـراهـيـم" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/015.mp3" title="(15) Al-Hijr الـحـجـر" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/016.mp3" title="(16) An-Nahl الـنـحـل" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/017.mp3" title="(17) Al-Isra الإسـراء" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/019.mp3" title="(19) Maryam مـريـم" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/020.mp3" title="(20) Ta­Ha طـه" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/031.mp3" title="(31) Luqman لـقـمـان" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/032.mp3" title="(32) As­Sajdah الـسـجـدة" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/039.mp3" title="(39) Az-Zumar الـزمـر" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/040.mp3" title="(40) Ghafir غـافـر" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/049.mp3" title="(49) Al-Hujurat الـحـجـرات" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/067.mp3" title="(67) Al-Mulk الـمـلـك" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/068.mp3" title="(68) Al-Qalam الـقـلـم" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/069.mp3" title="(69) Al-Haqqah الـحـاقـة" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/070.mp3" title="(70) Al-Ma'arij الـمـعـارج" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/071.mp3" title="(71) Nooh نـوح" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/072.mp3" title="(72) Al-Jinn الـجـن" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/073.mp3" title="(73) Al-Muzzammil الـمـزّمّـل" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/074.mp3" title="(74) Al-Muddaththir الـمـدّثـر" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/075.mp3" title="(75) Al-Qiyamah الـقـيـامـة" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/076.mp3" title="(76) Al-Insan الإنـسـان" />
+    <song path="http://tvquranserver.com/download/TvQuran.com__Al-Arkani/077.mp3" title="(77) Al-Mursalat الـمـرسـلات" />
+</songs>

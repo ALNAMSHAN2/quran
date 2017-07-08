@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<songs showDisplay="yes" showPlaylist="yes" autoStart="yes">
+    <song path="http://ia600500.us.archive.org/22/items/TvQuran.com__Al-Asiri/001.mp3" title="(01) Al-Fatihah الـفـاتـحـة" />
+    <song path="http://ia600500.us.archive.org/22/items/TvQuran.com__Al-Asiri/008.mp3" title="(08) Al-Anfal الأنـفـال" />
+    <song path="http://ia600500.us.archive.org/22/items/TvQuran.com__Al-Asiri/014.mp3" title="(14) Ibrahim إبـراهـيـم" />
+    <song path="http://ia600500.us.archive.org/22/items/TvQuran.com__Al-Asiri/019.mp3" title="(19) Maryam مـريـم" />
+    <song path="http://ia600500.us.archive.org/22/items/TvQuran.com__Al-Asiri/021.mp3" title="(21) Al-Anbiya' الأنـبـيـاء" />
+    <song path="http://ia600500.us.archive.org/22/items/TvQuran.com__Al-Asiri/023.MP3" title="(23) Al-Mu'minun الـمـؤمـنـون" />
+    <song path="http://ia600500.us.archive.org/22/items/TvQuran.com__Al-Asiri/027.mp3" title="(27) An-Naml الـنّـمـل" />
+    <song path="http://ia600500.us.archive.org/22/items/TvQuran.com__Al-Asiri/053.mp3" title="(53) An-Najm الـنـجـم" />
+    <song path="http://ia600500.us.archive.org/22/items/TvQuran.com__Al-Asiri/054.MP3" title="(54) Al-Qamar الـقـمـر" />
+    <song path="http://ia600500.us.archive.org/22/items/TvQuran.com__Al-Asiri/056.MP3" title="(56) Al-Waqi'ah الـواقـعـة" />
+    <song path="http://ia600500.us.archive.org/22/items/TvQuran.com__Al-Asiri/069.MP3" title="(69) Al-Haqqah الـحـاقـة" />
+    <song path="http://ia600500.us.archive.org/22/items/TvQuran.com__Al-Asiri/070.mp3" title="(70) Al-Ma'arij الـمـعـارج" />
+    <song path="http://ia600500.us.archive.org/22/items/TvQuran.com__Al-Asiri/075.MP3" title="(75) Al-Qiyamah الـقـيـامـة" />
+</songs>

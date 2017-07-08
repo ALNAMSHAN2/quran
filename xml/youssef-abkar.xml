@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<songs showDisplay="yes" showPlaylist="yes" autoStart="yes">
+    <song path="http://ia600403.us.archive.org/26/items/TvQuran.com__Youssef-Abkar/001.mp3" title="(01) Al-Fatihah الـفـاتـحـة" />
+    <song path="http://ia600403.us.archive.org/26/items/TvQuran.com__Youssef-Abkar/011.mp3" title="(11) Hood هـود" />
+    <song path="http://ia600403.us.archive.org/26/items/TvQuran.com__Youssef-Abkar/036.mp3" title="(36) Ya­Sin يـس" />
+    <song path="http://ia600403.us.archive.org/26/items/TvQuran.com__Youssef-Abkar/067.mp3" title="(67) Al-Mulk الـمـلـك" />
+    <song path="http://ia600403.us.archive.org/26/items/TvQuran.com__Youssef-Abkar/075.mp3" title="(75) Al-Qiyamah الـقـيـامـة" />
+</songs>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<songs showDisplay="yes" showPlaylist="yes" autoStart="yes">
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/001.mp3" title="(01) Al-Fatihah الـفـاتـحـة" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/012.mp3" title="(12) Yusuf يـوسـف" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/036.mp3" title="(36) Ya­Sin يـس" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/037.mp3" title="(37) As-Saffat الـصـافـات" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/044.mp3" title="(44) Ad-Dukhan الــدّخــان" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/045.mp3" title="(45) Al-Jathiya الـجـاثـيـة" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/050.mp3" title="(50) Qaf ق" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/051.mp3" title="(51) Az-Zariyat الـذاريـات" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/052.mp3" title="(52) At-Tur الـطـور" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/053.mp3" title="(53) An-Najm الـنـجـم" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/054.mp3" title="(54) Al-Qamar الـقـمـر" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/055.mp3" title="(55) Ar-Rahman الـرحـمـن" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/056.mp3" title="(56) Al-Waqi'ah الـواقـعـة" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/057.mp3" title="(57) Al-Hadid الـحـديـد" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/067.mp3" title="(67) Al-Mulk الـمـلـك" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/068.mp3" title="(68) Al-Qalam الـقـلـم" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/069.mp3" title="(69) Al-Haqqah الـحـاقـة" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/070.mp3" title="(70) Al-Ma'arij الـمـعـارج" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/071.mp3" title="(71) Nooh نـوح" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/072.mp3" title="(72) Al-Jinn الـجـن" />
+	<song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/073.mp3" title="(73) Al-Muzzammil الـمـزّمّـل" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/074.mp3" title="(74) Al-Muddaththir الـمـدّثـر" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/075.mp3" title="(75) Al-Qiyamah الـقـيـامـة" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/076.mp3" title="(76) Al-Insan الإنـسـان" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/077.mp3" title="(77) Al-Mursalat الـمـرسـلات" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/078.mp3" title="(78) An-Naba' الـنـبـأ" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/079.mp3" title="(79) An-Nazi'at الـنـازعـات" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/080.mp3" title="(80) 'Abasa عـبـس" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/081.mp3" title="(81) At-Takwir الـتـكـويـر" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/082.mp3" title="(82) Al-Infitar الإنـفـطـار" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/083.mp3" title="(83) Al-Mutaffifin الـمـطـفّـفـيـن" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/084.mp3" title="(84) Al-Inshiqaq الإنـشـقـاق" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/085.mp3" title="(85) Al-Buruj الـبـروج" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/086.mp3" title="(86) At-Tariq الـطـارق" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/087.mp3" title="(87) Al-A'la الأعـلـى" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/088.mp3" title="(88) Al-Ghashiyah الـغـاشـيـة" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/089.mp3" title="(89) Al-Fajr الـفـجـر" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/090.mp3" title="(90) Al-Balad الـبـلـد" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/091.mp3" title="(91) Ash-Shams الـشـمـس" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/092.mp3" title="(92) Al-Lail الـلـيـل" />
+	<song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/093.mp3" title="(93) Ad-Duha الـضـحـى" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/094.mp3" title="(94) Ash-Sharh الـشـرح" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/095.mp3" title="(95) At-Tin الـتـيـن" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/096.mp3" title="(96) Al-'Alaq الـعـلـق" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/097.mp3" title="(97) Al-Qadr الـقـدر" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/098.mp3" title="(98) Al-Baiyinah الـبـيـنـة" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/099.mp3" title="(99) Az-Zalzalah الـزلـزلـة" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/100.mp3" title="(100) Al-'Adiyat الـعـاديـات" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/101.mp3" title="(101) Al-Qari'ah الـقـارعـة" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/102.mp3" title="(102) At-Takathur الـتـكـاثـر" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/103.mp3" title="(103) Al-'Asr الـعـصـر" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/104.mp3" title="(104) Al-Humazah الـهـمـزة" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/105.mp3" title="(105) Al-Fil الـفـيـل" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/106.mp3" title="(106) Quraish قـريـش" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/107.mp3" title="(107) Al-Ma'un الـمـاعـون" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/108.mp3" title="(108) Al-Kauthar الـكـوثـر" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/109.mp3" title="(109) Al-Kafirun الـكـافـرون" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/110.mp3" title="(110) An-Nasr الـنـصـر" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/111.mp3" title="(111) Al-Masad الـمـسـد" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/112.mp3" title="(112) Al-Ikhlas الإخـلاص" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/113.mp3" title="(113) Al-Falaq الـفـلـق" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__Al-Barrak/114.mp3" title="(114) An-Nas الـنّـاس" />
+	
+	
+</songs>

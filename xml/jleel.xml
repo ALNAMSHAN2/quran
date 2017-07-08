@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<songs showDisplay="yes" showPlaylist="yes" autoStart="yes">
+    <song path="http://download.tvquran.com/download/TvQuran.com__jleel/007.mp3" title="(07) Al-A'raf الأعـراف" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__jleel/014.mp3" title="(14) Ibrahim إبـراهـيـم" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__jleel/015.mp3" title="(15) Al-Hijr الـحـجـر" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__jleel/016.mp3" title="(16) An-Nahl الـنـحـل" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__jleel/069.mp3" title="(69) Al-Haqqah الـحـاقـة" />
+    <song path="http://download.tvquran.com/download/TvQuran.com__jleel/074.mp3" title="(74) Al-Muddaththir الـمـدّثـر" />
+</songs>

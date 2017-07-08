@@ -1,0 +1,124 @@
+﻿<?php
+?>
+
+<?xml version='1.0' encoding='UTF-8'?> 
+<songs showDisplay="yes" showPlaylist="yes" autoStart="yes">
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/001.mp3" title="(01) Al-Fatihah الـفـاتـحـة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/002.mp3" title="(02) Al-Baqarah الـبـقـرة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/003.mp3" title="(03) Al-Imran  عـمـران آل"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/004.mp3" title="(04) An-Nisa' الـنـسـاء"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/005.mp3" title="(05) Al-Ma'idah الـمـائـدة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/006.mp3" title="(06) Al-An'am الأنـعـام"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/007.mp3" title="(07) Al-A'raf الأعـراف"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/008.mp3" title="(08) Al-Anfal الأنـفـال"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/009.mp3" title="(09) At-Taubah الـتـوبـة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/010.mp3" title="(10) Yunus يـونـس"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/011.mp3" title="(11) Hood هـود"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/012.mp3" title="(12) Yusuf يـوسـف"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/013.mp3" title="(13) Ar-Ra'd الـرعـد"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/014.mp3" title="(14) Ibrahim إبـراهـيـم"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/015.mp3" title="(15) Al-Hijr الـحـجـر"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/016.mp3" title="(16) An-Nahl الـنـحـل"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/017.mp3" title="(17) Al-Isra الإسـراء"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/018.mp3" title="(18) Al-Kahf الـكـهـف"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/019.mp3" title="(19) Maryam مـريـم"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/020.mp3" title="(20) Ta­Ha طـه"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/021.mp3" title="(21) Al-Anbiya' الأنـبـيـاء"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/022.mp3" title="(22) Al-Hajj الـحـج"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/023.mp3" title="(23) Al-Mu'minun الـمـؤمـنـون"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/024.mp3" title="(24) An-Nur الـنّـور"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/025.mp3" title="(25) Al-Furqan الـفـرقـان"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/026.mp3" title="(26) Ash-Shu'ara' الـشـعـراء"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/027.mp3" title="(27) An-Naml الـنّـمـل"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/028.mp3" title="(28) Al-Qasas الـقـصـص"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/029.mp3" title="(29) Al-'Ankabut الـعـنـكـبـوت"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/030.mp3" title="(30) Ar­Room الـرّوم"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/031.mp3" title="(31) Luqman لـقـمـان"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/032.mp3" title="(32) As­Sajdah الـسـجـدة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/033.mp3" title="(33) Al­Ahzab الأحـزاب"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/034.mp3" title="(34) Saba' سـبـأ"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/035.mp3" title="(35) Fatir فـاطـر"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/036.mp3" title="(36) Ya­Sin يـس"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/037.mp3" title="(37) As-Saffat الـصـافـات"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/038.mp3" title="(38) Sad ص"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/039.mp3" title="(39) Az-Zumar الـزمـر"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/040.mp3" title="(40) Ghafir غـافـر"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/041.mp3" title="(41) Fussilat فـصّـلـت"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/042.mp3" title="(42) Ash-Shura الـشـورى"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/043.mp3" title="(43) Az-Zukhruf الـزخـرف"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/044.mp3" title="(44) Ad-Dukhan الـدّخـان"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/045.mp3" title="(45) Al-Jathiya الـجـاثـيـة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/046.mp3" title="(46) Al-Ahqaf الأحـقـاف"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/047.mp3" title="(47) Muhammad مـحـمـد"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/048.mp3" title="(48) Al-Fath الـفـتـح"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/049.mp3" title="(49) Al-Hujurat الـحـجـرات"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/050.mp3" title="(50) Qaf ق"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/051.mp3" title="(51) Az-Zariyat الـذاريـات"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/052.mp3" title="(52) At-Tur الـطـور"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/053.mp3" title="(53) An-Najm الـنـجـم"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/054.mp3" title="(54) Al-Qamar الـقـمـر"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/055.mp3" title="(55) Ar-Rahman الـرحـمـن"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/056.mp3" title="(56) Al-Waqi'ah الـواقـعـة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/057.mp3" title="(57) Al-Hadid الـحـديـد"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/058.mp3" title="(58) Al-Mujadilah الـمـجـادلـة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/059.mp3" title="(59) Al-Hashr الـحـشـر"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/060.mp3" title="(60) Al-Mumtahinah الـمـمـتـحـنـة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/061.mp3" title="(61) As-Saff الـصـف"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/062.mp3" title="(62) Al-Jumu'ah الـجـمـعـة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/063.mp3" title="(63) Al-Munafiqun الـمـنـافـقـون"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/064.mp3" title="(64) At-Taghabun الـتـغـابـن"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/065.mp3" title="(65) At-Talaq الـطـلاق"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/066.mp3" title="(66) At-Tahrim الـتـحـريـم"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/067.mp3" title="(67) Al-Mulk الـمـلـك"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/068.mp3" title="(68) Al-Qalam الـقـلـم"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/069.mp3" title="(69) Al-Haqqah الـحـاقـة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/070.mp3" title="(70) Al-Ma'arij الـمـعـارج"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/071.mp3" title="(71) Nooh نـوح"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/072.mp3" title="(72) Al-Jinn الـجـن"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/073.mp3" title="(73) Al-Muzzammil الـمـزّمّـل"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/074.mp3" title="(74) Al-Muddaththir الـمـدّثـر"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/075.mp3" title="(75) Al-Qiyamah الـقـيـامـة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/076.mp3" title="(76) Al-Insan الإنـسـان"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/077.mp3" title="(77) Al-Mursalat الـمـرسـلات"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/078.mp3" title="(78) An-Naba' الـنـبـأ"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/079.mp3" title="(79) An-Nazi'at الـنـازعـات"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/080.mp3" title="(80) 'Abasa عـبـس"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/081.mp3" title="(81) At-Takwir الـتـكـويـر"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/082.mp3" title="(82) Al-Infitar الإنـفـطـار"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/083.mp3" title="(83) Al-Mutaffifin الـمـطـفّـفـيـن"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/084.mp3" title="(84) Al-Inshiqaq الإنـشـقـاق"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/085.mp3" title="(85) Al-Buruj الـبـروج"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/086.mp3" title="(86) At-Tariq الـطـارق"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/087.mp3" title="(87) Al-A'la الأعـلـى"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/088.mp3" title="(88) Al-Ghashiyah الـغـاشـيـة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/089.mp3" title="(89) Al-Fajr الـفـجـر"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/090.mp3" title="(90) Al-Balad الـبـلـد"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/091.mp3" title="(91) Ash-Shams الـشـمـس"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/092.mp3" title="(92) Al-Lail الـلـيـل"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/093.mp3" title="(93) Ad-Duha الـضـحـى"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/094.mp3" title="(94) Ash-Sharh الـشـرح"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/095.mp3" title="(95) At-Tin الـتـيـن"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/096.mp3" title="(96) Al-'Alaq الـعـلـق"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/097.mp3" title="(97) Al-Qadr الـقـدر"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/098.mp3" title="(98) Al-Baiyinah الـبـيـنـة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/099.mp3" title="(99) Az-Zalzalah الـزلـزلـة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/100.mp3" title="(100) Al-'Adiyat الـعـاديـات"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/101.mp3" title="(101) Al-Qari'ah الـقـارعـة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/102.mp3" title="(102) At-Takathur الـتـكـاثـر"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/103.mp3" title="(103) Al-'Asr الـعـصـر"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/104.mp3" title="(104) Al-Humazah الـهـمـزة"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/105.mp3" title="(105) Al-Fil الـفـيـل"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/106.mp3" title="(106) Quraish قـريـش"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/107.mp3" title="(107) Al-Ma'un الـمـاعـون"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/108.mp3" title="(108) Al-Kauthar الـكـوثـر"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/109.mp3" title="(109) Al-Kafirun الـكـافـرون"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/110.mp3" title="(110) An-Nasr الـنـصـر"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/111.mp3" title="(111) Al-Masad الـمـسـد"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/112.mp3" title="(112) Al-Ikhlas الإخـلاص"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/113.mp3" title="(113) Al-Falaq الـفـلـق"/>
+    <song path="http://ia600504.us.archive.org/21/items/TvQuran.com__Alafasi/114.mp3" title="(114) An-Nas الـنّـاس"/>
+</songs>
+
+
+<?php
+?>
